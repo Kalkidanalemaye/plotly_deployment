@@ -132,7 +132,7 @@ function buildGauge(sample){
         name:'times per week',
         text: wFreq,
         hoverinfo: 'text+name'},
-      { values: [50/9,50/9,50/9,50/9,50/9,50/9,50/9,50/9,50/9,50],
+      { values: [81/9,81/9,81/9,81/9,81/9,81/9,81/9,81/9,81/9,81],
       rotation: 90,
       text: ['0-1', '1-2', '2-3', '3-4', '4-5', '5-6', '6-7', '7-8', '8-9', ''],
       textinfo: 'text',
